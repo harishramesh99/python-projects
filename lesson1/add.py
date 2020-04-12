@@ -3,6 +3,5 @@ two variable a and b and prints th value"""
 
 a  = 1 # 1st int value 
 b =  2 # 2nd int value
-
-print( a +  b)
+print (f"Sum of 2 numbers {a+b}")
 
